@@ -301,6 +301,10 @@ nav{
     font-weight: 10000;
 
 }
+#Rotation
+{
+    animation:animatinall 1s 1  both; 
+}
 
 
 /*home page services*/
